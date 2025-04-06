@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_scripts">
+    <pa_scripts action="INSERT_OR_UPDATE">
+        <arguments>start</arguments>
+        <description>Describe what the script does</description>
+        <name>Descriptive name of the script</name>
+        <script><![CDATA[var aa;]]></script>
+        <sys_class_name>pa_scripts</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-06 08:43:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9fb8d76cc3b86a103daf533ed40131e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Descriptive name of the script</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_scripts_9fb8d76cc3b86a103daf533ed40131e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-06 08:43:25</sys_updated_on>
+        <table>ais_active_table_ingestion_tracker</table>
+    </pa_scripts>
+    <sys_translated_text action="delete_multiple" query="documentkey=9fb8d76cc3b86a103daf533ed40131e6"/>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>9fb8d76cc3b86a103daf533ed40131e6</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-06 08:43:25</sys_created_on>
+        <sys_id>0f495f2cc3b86a103daf533ed40131c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-06 08:43:25</sys_updated_on>
+        <table>pa_scripts</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>
